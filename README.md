@@ -11,3 +11,6 @@ Benchmarks: http://facebook.github.io/zstd/
 
 ![decompression speed]
 (https://raw.githubusercontent.com/facebook/zstd/master/doc/images/Dspeed4.png)
+
+![dictionary compression]
+(https://raw.githubusercontent.com/facebook/zstd/master/doc/images/smallData.png)
