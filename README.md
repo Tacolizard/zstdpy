@@ -8,3 +8,6 @@ Benchmarks: http://facebook.github.io/zstd/
 
 ![benchmark vs zlib]
 (https://raw.githubusercontent.com/facebook/zstd/master/doc/images/Cspeed4.png)
+
+![decompression speed]
+(https://raw.githubusercontent.com/facebook/zstd/master/doc/images/Dspeed4.png)
