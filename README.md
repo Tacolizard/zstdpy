@@ -5,3 +5,6 @@ Zstandard is exceptionally fast, yet still capable of very impressive compressio
 Zstandard is also one of the best algorithms for small file compression, able to compress files even in the tens of bytes range.
 
 Benchmarks: http://facebook.github.io/zstd/
+
+![benchmark vs zlib]
+(https://raw.githubusercontent.com/facebook/zstd/master/doc/images/Cspeed4.png)
