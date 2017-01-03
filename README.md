@@ -12,4 +12,5 @@ Benchmarks: http://facebook.github.io/zstd/
 Requirements:
 
 Python 3.5+
+
 Zstandard python wrapper, python3 version: https://pypi.python.org/pypi/zstandard
